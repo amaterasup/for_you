@@ -68,6 +68,7 @@ function tombol(){
 const kartu = document.getElementById("kartu");
 function animasi_kartu(){
     kartu.innerHTML = kata_kata;
+    kartu.style = "display:flex";
     const animasi = kartu.animate([
         {
             transform: "scale(0) rotateX(0deg) rotateY(0deg)"
