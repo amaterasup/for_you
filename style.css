@@ -10,6 +10,7 @@ body{
     overflow: auto;
     background: url("https://tse2.mm.bing.net/th?id=OIP.RRjBbcrIXSO5prP-UnHDnAHaEK&pid=Api&P=0&h=180") no-repeat;
     object-fit: cover;
+    height: 100%;
 }
 .hitung-mundur{
     color: white;
