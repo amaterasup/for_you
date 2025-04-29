@@ -505,4 +505,4 @@ window.addEventListener("resize", function () {
     ctx.font = opts.charSize + "px Verdana";
 });
 
-const kata_kata = `<div id=kata-kata><h1>HAPPY BIRTHDAY</h1><p>Selamat ulang tahun, Naysha! Semoga semakin bijak, dewasa dan terus membawa kebaikan buat orang orang disekitarmu</p></div><div id=gambar><img src=https://drive.google.com/thumbnail?id=1pNxWS7TFCIRmqYOT2fD09V9law6BMULb id=g1><button id=tombol onclick=tombol()>CLICK ME!</button></div>`;
+const kata_kata = `<div id=kata-kata><h1>HAPPY BIRTHDAY</h1><p>Selamat ulang tahun yang ke-18 Nay! <br> Semoga semakin bijak, dewasa dan selalu sehat untuk terus membawa kebaikan buat orang orang disekitarmu<br><br>-orang</p></div><div id=gambar><img src=https://drive.google.com/thumbnail?id=1pNxWS7TFCIRmqYOT2fD09V9law6BMULb id=g1><button id=tombol onclick=tombol()>CLICK ME!</button></div>`;
