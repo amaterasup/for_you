@@ -56,8 +56,9 @@ body{
     display: flex;
     transform-style: preserve-3d;
     perspective: 800px;
+    display: none;
 }
-.kartu-ulang-tahun::before{
+.kartu-ulang-tahun::after{
     content: "";
     background: linear-gradient(-45deg,blue,yellow,red);
     width: 250px;
