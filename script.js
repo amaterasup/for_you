@@ -53,7 +53,7 @@ function cek(angka){
 var warna = 0;
 function efek_ulang_tahun(){
     hitung_mundur.innerHTML = "";
-    document.querySelector("body").style.background = 'black';
+    document.querySelector("body").style.background = "url(https://www.pixelstalk.net/wp-content/uploads/images5/Aesthetic-Space-Wallpaper-1080p.jpg) no-repeat;";
     document.getElementsByClassName("hitung-mundur")[0].style.display= "none";
     anim();
     setInterval(function(){
